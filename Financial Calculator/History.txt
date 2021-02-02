@@ -1,0 +1,53 @@
+str2
+Future Value=Rs.13128.62
+Interest Rate=3
+Time Period=3
+Principal Value=12000
+------------------------------
+str4
+FutureValue=20000
+Principal Investment=12000
+Interest Rate=2
+Time Period=2
+MonthlyPay=
+------------------------------
+str4
+FutureValue=
+Principal Investment=12000
+Interest Rate=2
+Time Period=2
+MonthlyPay=326
+------------------------------
+str3
+Down Payment=1000
+Loan Term=2
+Interest Rate=2
+Monthly Payment=
+Loan Amount=12000
+------------------------------
+str4
+FutureValue=
+Principal Investment=
+Interest Rate=
+Time Period=
+MonthlyPay=
+------------------------------
+str2
+Future Value=
+Interest Rate=
+Time Period=
+Principal Value=
+------------------------------
+str3
+Down Payment=5000
+Loan Term=2
+Interest Rate=7
+Monthly Payment=
+Loan Amount=12000
+------------------------------
+str2
+Future Value=48997
+Interest Rate=8.99 %
+Time Period=10
+Principal Value=20000
+------------------------------
