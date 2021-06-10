@@ -10,3 +10,6 @@ The app has the ability to solve for one unknown from t - time in years , r(%) -
   4. Mortgage
 
  In addition to this the software contains a help view that will contain instructions and guidance to the user on how to use the software. 
+
+* Used technologies :- Java , JavaFx
+* Used IDE :- Intellij Idea
