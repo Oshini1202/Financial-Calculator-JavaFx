@@ -1,7 +1,12 @@
 # Financial-Calculator-JavaFx
 
 This is a finacial calculator which is created by using Java and JavaFx.
-The app has the ability to solve for one unknown from t - time in years , r(%) - interest rate , P - present value, PMT - payment and A - future value. 
+The app has the ability to solve for one unknown from 
+* t - time in years , 
+* r(%) - interest rate , 
+* P - present value, 
+* PMT - payment and 
+* A - future value. 
  
  The app splits typical financial problems up over typically four views: 
   1. Compound saving (fixed sum investment with no further payments) 
